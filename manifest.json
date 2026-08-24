@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "1.0.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "permissions": [
+    "menus",
+    "messagesRead",
+    "tabs",
+    "downloads",
+    "downloads.open",
+    "notifications"
+  ],
+  "background": {
+    "scripts": [
+      "pdf-lib.min.js",
+      "jszip.min.js",
+      "background.js"
+    ]
+  },
+  "message_display_action": {
+    "default_title": "__MSG_buttonTitle__",
+    "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "attach-print-all@msx44.extensions",
+      "strict_min_version": "128.0"
+    }
+  }
+}

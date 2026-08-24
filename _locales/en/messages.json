@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Attach Print All"
+  },
+  "extensionDescription": {
+    "message": "Adds a button and a context menu to print all email attachments with a single click."
+  },
+  "buttonTitle": {
+    "message": "Print All Attachments"
+  },
+  "contextMenuTitle": {
+    "message": "Print All Attachments"
+  }
+}

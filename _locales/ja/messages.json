@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Attach Print All"
+  },
+  "extensionDescription": {
+    "message": "ワンクリックでメールのすべての添付ファイルを一括印刷するボタンと右クリックメニューを追加します。"
+  },
+  "buttonTitle": {
+    "message": "全添付印刷"
+  },
+  "contextMenuTitle": {
+    "message": "全添付印刷"
+  }
+}
