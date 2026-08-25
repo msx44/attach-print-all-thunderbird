@@ -43,7 +43,8 @@ Thunderbirdで受信したメール内のすべての添付ファイル（PDF・
 ## ⚙️ インストール方法
 
 ### 公式ストアからインストール（推奨）
-現在Thunderbird Add-onsストアにて審査中です。公開され次第、こちらにリンクが掲載されます！
+現在Thunderbird Add-onsストアにて審査中です。
+https://addons.thunderbird.net/ja/thunderbird/addon/attach-print-all/
 
 ### 手動インストール（開発者向け / 身内配布用）
 1. 本リポジトリのソースコード、またはリリースから `.xpi`（または `.zip`）ファイルをダウンロードします。
