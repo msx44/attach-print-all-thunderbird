@@ -1,13 +1,16 @@
 {
   "manifest_version": 3,
   "name": "__MSG_extensionName__",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
   "permissions": [
     "menus",
     "messagesRead",
-    "tabs",
     "downloads",
     "downloads.open",
     "notifications"
