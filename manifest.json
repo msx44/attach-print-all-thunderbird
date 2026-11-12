@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "__MSG_extensionName__",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
   "icons": {
@@ -17,6 +17,7 @@
   ],
   "background": {
     "scripts": [
+      "decrypt-pdf.js",
       "pdf-lib.min.js",
       "jszip.min.js",
       "background.js"
@@ -32,4 +33,4 @@
       "strict_min_version": "128.0"
     }
   }
-}
+}
